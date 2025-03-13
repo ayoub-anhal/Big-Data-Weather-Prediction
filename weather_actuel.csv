@@ -1,0 +1,6 @@
+City,Timestamp,Temperature (°C),Humidity (%),Winds (m/s),Clouds (%),rain_1h (mm),Description
+Casablanca,2024-05-28 21:44:39,21.850000000000023,73,2.68,0,0,clear sky
+Tétouan,2024-05-28 21:44:39,20.430000000000007,88,5.66,40,0,scattered clouds
+Ouarzazate,2024-05-28 21:44:39,33.06,8,4.12,20,0,few clouds
+Ifrane,2024-05-28 21:44:40,19.33000000000004,40,6.34,95,0,overcast clouds
+Laayoune,2024-05-28 21:44:40,19.5,69,6.16,100,0,overcast clouds
